@@ -1,11 +1,11 @@
-1. ÇÁ·Î¼¼½º »óÅÂÀÇ 5´Ü°è
- : New - Ready - Run - Waiting - Terminated
-	- Run »óÅÂ¿¡¼­ Ready »óÅÂ·Î ¹Ù²Ù´Â ½ºÄÉÁì·¯´Â?
-	: Job Scheduler°¡ Ready Queue·Î ÇÁ·Î¼¼½º¸¦ ¿Å±ä´Ù
+1. í”„ë¡œì„¸ìŠ¤ ìƒíƒœì˜ 5ë‹¨ê³„
+-: New - Ready - Run - Waiting - Terminated
+	- Run ìƒíƒœì—ì„œ Ready ìƒíƒœë¡œ ë°”ê¾¸ëŠ” ìŠ¤ì¼€ì¥´ëŸ¬ëŠ”?
+	-: Job Schedulerê°€ Ready Queueë¡œ í”„ë¡œì„¸ìŠ¤ë¥¼ ì˜®ê¸´ë‹¤
 
-2. PCB¶õ ¹«¾ùÀÎ°¡?
- : PCB(Process Control Block)ÀÌ¶õ ÇÁ·Î¼¼½ºÀÇ Á¤º¸¸¦ ´ã´Â ºí·°ÀÌ´Ù.
-   Process State, Program Counter, CPU register, CPU scheduling information, Memory-management information, I/O status informationÀ» ÀúÀåÇÑ´Ù
-	- PCB¸¦ ±³Ã¼ÇÏ´Â °ÍÀ» ¹«¾ùÀÌ¶ó ÀÏÄÂ´Â°¡?
-	: Context Switching
+2. PCBë€ ë¬´ì—‡ì¸ê°€?
+-: PCB(Process Control Block)ì´ë€ í”„ë¡œì„¸ìŠ¤ì˜ ì •ë³´ë¥¼ ë‹´ëŠ” ë¸”ëŸ­ì´ë‹¤.
+   Process State, Program Counter, CPU register, CPU scheduling information, Memory-management information, I/O status informationì„ ì €ì¥í•œë‹¤
+	- PCBë¥¼ êµì²´í•˜ëŠ” ê²ƒì„ ë¬´ì—‡ì´ë¼ ì¼ì»«ëŠ”ê°€?
+	-: Context Switching
 	

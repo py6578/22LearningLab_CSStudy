@@ -6,7 +6,7 @@ Every Tuu 6 pm (RUN) at Autoway Tower N4 Room
 |이름|GitHub|이름|Github|
 |---|---|---|---|
 |박예리|[@py6578](https://github.com/seongahpark)|김민정|[@-](-)|
-|김장윤|[@-](-)|김현준|[@-](-)|
+|김장윤|[@-](-)|김현준|[@hjk9984](https://github.com/hjk9984)|
 |심상민|[@maan282](https://github.com/maan282)|이재인|[@Jaein94](https://github.com/Jaein94)|
 |이재하|[@LEE-JAEHA](https://github.com/LEE-JAEHA)|황정호|[@Fwang-de-manager](https://github.com/Fwang-de-manager)|
 
@@ -25,7 +25,7 @@ Every Tuu 6 pm (RUN) at Autoway Tower N4 Room
 |이름|GitHub|이름|Github|
 |---|---|---|---|
 |박예리|[@py6578](https://github.com/seongahpark)|김민정|[@-](-)|
-|김장윤|[@-](-)|김현준|[@-](-)|
+|김장윤|[@-](-)|김현준|[@hjk9984](https://github.com/hjk9984)|
 |심상민|[@maan282](https://github.com/maan282)|이재인|[@Jaein94](https://github.com/Jaein94)|
 |이재하|[@LEE-JAEHA](https://github.com/LEE-JAEHA)|황정호|[@Fwang-de-manager](https://github.com/Fwang-de-manager)|
 

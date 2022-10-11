@@ -18,7 +18,7 @@ Every Tue 6 pm at Autoway Tower N4 Room
 *질문 준비해올 때 꼬리질문 준비해오기, 메인 질문자 이외 다른 사람도 꼬리질문하기 가능
 *스터디 중 좋은 자료 있다면 마크다운 수정해서 업로드 부탁드립니다*
 3. 답변에 대한 질문자의 피드백
-4. 각자 받았던 질문 및 꼬리질문 정리해서 깃에 업로드
+4. 각자 자신이 한 질문 및 꼬리질문 정리해서 깃에 업로드
 
 ## 폴더 구조
 ```sh
@@ -29,13 +29,22 @@ Every Tue 6 pm at Autoway Tower N4 Room
 
 ```
 
+## 역할
+|역할|이름|
+|---|---|---|---|
+|스터디장 및 스케쥴러|박예리[@py6578](https://github.com/seongahpark)|
+|총무(이러닝/활동비/도서구입)|심상민[@maan282](https://github.com/maan282)|
+|Git 관리|김현준|[@hjk9984](https://github.com/hjk9984)|
+|사다리/회의실예약/사진|김민정[@minjung-mmc](https://github.com/minjung-mmc)|
+- 추후 교재 변경 시 역할 변경
+
 ## Commit Rule
 + 꼭 pull 먼저 하기!
-+ 본인 아이디 이름으로 브런치 생성
-  - ex) Yeri
++ 본인 아이디 이름으로 브런치 생성 ($ git -b checkout Yeri)
++ 본인 "git 아이디 이름.md" 파일로 본인 질문 및 정답 올리기
 + commit message는 자유롭게 작성 (ex. 박예리 OS 2주차)
 + push 완료 후, Git 홈페이지에서 pull request 신청!
-+ merge는 git maintainer 장이 합니다
++ merge는 git maintainer(김현준)이 합니다
 + [Pull Request 및 Issue 사용 방법](https://north-recorder-449.notion.site/PULL-REQUEST-97951f36e13f489a9c5f9d912e81d135)
 
 ## Contributor

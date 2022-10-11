@@ -1,7 +1,6 @@
 # 22LearningLab_CSStudy
 22 R&amp;D Learning Lab - Autonomous Driving Computor Science Study
-
-Every Tuu 6 pm (RUN) at Autoway Tower N4 Room
+Every Tue 6 pm at Autoway Tower N4 Room
 
 ## Current Member
 |이름|GitHub|이름|Github|

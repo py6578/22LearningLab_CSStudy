@@ -30,4 +30,4 @@ Every Tuu 6 pm (RUN) at Autoway Tower N4 Room
 |이재하|[@LEE-JAEHA](https://github.com/LEE-JAEHA)|황정호|[@Fwang-de-manager](https://github.com/Fwang-de-manager)|
 
 
-Thanks to 
+Thanks to Simon Park(https://parksb.github.io)

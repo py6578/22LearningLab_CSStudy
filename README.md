@@ -24,7 +24,8 @@ Every Tue 6 pm at Autoway Tower N4 Room
 ```sh
 ├─책 이름
 │  ├─ 00_Week N (ch A ~ ch B)
-│  │  │   교재_분량_진행자료.md
+│  │  │   교재_분량_진행자료.pdf
+│  │  │   공룡책으로 정리하는 운영체제 이론 정리.md
 │  │  │   이름_QnA.md
 
 ```

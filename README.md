@@ -5,8 +5,8 @@ Every Tue 6 pm at Autoway Tower N4 Room
 ## Current Member
 |이름|GitHub|이름|Github|
 |---|---|---|---|
-|박예리|[@py6578](https://github.com/seongahpark)|김민정|[@-](-)|
-|김장윤|[@-](-)|김현준|[@hjk9984](https://github.com/hjk9984)|
+|박예리|[@py6578](https://github.com/seongahpark)|김민정|[@minjung-mmc](https://github.com/minjung-mmc)|
+|김장윤|[@MinChoKim](https://github.com/MinChoKim)|김현준|[@hjk9984](https://github.com/hjk9984)|
 |심상민|[@maan282](https://github.com/maan282)|이재인|[@Jaein94](https://github.com/Jaein94)|
 |이재하|[@LEE-JAEHA](https://github.com/LEE-JAEHA)|황정호|[@Fwang-de-manager](https://github.com/Fwang-de-manager)|
 
@@ -42,8 +42,8 @@ Every Tue 6 pm at Autoway Tower N4 Room
 
 |이름|GitHub|이름|Github|
 |---|---|---|---|
-|박예리|[@py6578](https://github.com/seongahpark)|김민정|[@-](-)|
-|김장윤|[@-](-)|김현준|[@hjk9984](https://github.com/hjk9984)|
+|박예리|[@py6578](https://github.com/seongahpark)|김민정|[@minjung-mmc](https://github.com/minjung-mmc)|
+|김장윤|[@MinChoKim](https://github.com/MinChoKim)|김현준|[@hjk9984](https://github.com/hjk9984)|
 |심상민|[@maan282](https://github.com/maan282)|이재인|[@Jaein94](https://github.com/Jaein94)|
 |이재하|[@LEE-JAEHA](https://github.com/LEE-JAEHA)|황정호|[@Fwang-de-manager](https://github.com/Fwang-de-manager)|
 

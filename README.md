@@ -15,7 +15,7 @@ Every Tue 6 pm at Autoway Tower N4 Room
 <도서 목록 : Operating System, Design Pattern, Clean Code/Architecture, Effective C++/STL >
 2. 각자 스터디 후 인당 총 질문 3개 준비해오기
 사다리타기해서 자기 다음 순서 사람이 준비해온거 질문해주기
-*질문 준비해올 때 꼬리질문 준비해오기, 메인 질문자 이외 다른 사람도 꼬리질문하기 가능
+*질문 준비해올 때 꼬리질문 준비해오기, 메인 질문자 이외 다른 사람도 꼬리질문하기 가능*
 *스터디 중 좋은 자료 있다면 마크다운 수정해서 업로드 부탁드립니다*
 3. 답변에 대한 질문자의 피드백
 4. 각자 자신이 한 질문 및 꼬리질문 정리해서 깃에 업로드
@@ -42,7 +42,7 @@ Every Tue 6 pm at Autoway Tower N4 Room
 ## Commit Rule
 + 꼭 pull 먼저 하기!
 + 본인 아이디 이름으로 브런치 생성 ($ git -b checkout Yeri)
-+ 본인 "git 아이디 이름.md" 파일로 본인 질문 및 정답 올리기
++ 본인 "git 아이디 이름.md" 파일로 본인 질문 및 정답 올리기 [Mark Down 파일(.md) 작성 참고](https://heropy.blog/2017/09/30/markdown/)
 + commit message는 자유롭게 작성 (ex. 박예리 OS 2주차)
 + push 완료 후, Git 홈페이지에서 pull request 신청!
 + merge는 git maintainer(김현준)이 합니다

@@ -20,6 +20,24 @@ Every Tuu 6 pm (RUN) at Autoway Tower N4 Room
 3. 답변에 대한 질문자의 피드백
 4. 각자 받았던 질문 및 꼬리질문 정리해서 깃에 업로드
 
+## 폴더 구조
+```sh
+├─책 이름
+│  ├─ Week주차 (두 자릿수로 부탁 ex. 01)
+│  │  │   X장_장 제목.md
+│  │  │   X장_QnA.md
+
+```
+
+## Commit Rule
++ 꼭 pull 먼저 하기!
++ 본인 아이디 이름으로 브런치 생성
+  - ex) Yeri
++ commit message는 자유롭게 작성 (ex. 박예리 OS 2주차)
++ push 완료 후, Git 홈페이지에서 pull request 신청!
++ merge는 git maintainer 장이 합니다
++ [Pull Request 및 Issue 사용 방법](https://north-recorder-449.notion.site/PULL-REQUEST-97951f36e13f489a9c5f9d912e81d135)
+
 ## Contributor
 
 |이름|GitHub|이름|Github|
@@ -30,4 +48,5 @@ Every Tuu 6 pm (RUN) at Autoway Tower N4 Room
 |이재하|[@LEE-JAEHA](https://github.com/LEE-JAEHA)|황정호|[@Fwang-de-manager](https://github.com/Fwang-de-manager)|
 
 
-Thanks to Simon Park(https://parksb.github.io)
+Thanks to
+1. OS - Simon Park(https://parksb.github.io) : 🦕 공룡책으로 정리하는 운영체제(https://parksb.github.io/article/5.html)

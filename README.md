@@ -32,10 +32,10 @@ Every Tue 6 pm at Autoway Tower N4 Room
 ## 역할
 |역할|이름|
 |---|---|
-|스터디장 및 스케쥴러|박예리[@py6578](https://github.com/seongahpark)|
-|총무(이러닝/활동비/도서구입)|심상민[@maan282](https://github.com/maan282)|
-|Git 관리|김현준|[@hjk9984](https://github.com/hjk9984)|
-|사다리/회의실예약/사진|김민정[@minjung-mmc](https://github.com/minjung-mmc)|
+|스터디장 및 스케쥴러|박예리|
+|총무(이러닝/활동비/도서구입)|심상민|
+|Git 관리|김현준|
+|사다리/회의실예약/사진|김민정|
 - 추후 교재 변경 시 역할 변경
 
 ## Commit Rule

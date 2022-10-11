@@ -23,9 +23,9 @@ Every Tue 6 pm at Autoway Tower N4 Room
 ## 폴더 구조
 ```sh
 ├─책 이름
-│  ├─ Week주차 (두 자릿수로 부탁 ex. 01)
-│  │  │   X장_장 제목.md
-│  │  │   X장_QnA.md
+│  ├─ 00_Week N (ch A ~ ch B)
+│  │  │   교재_분량_진행자료.md
+│  │  │   이름_QnA.md
 
 ```
 

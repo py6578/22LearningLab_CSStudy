@@ -11,7 +11,7 @@ Every Tuu 6 pm (RUN) at Autoway Tower N4 Room
 |이재하|[@LEE-JAEHA](https://github.com/LEE-JAEHA)|황정호|[@Fwang-de-manager](https://github.com/Fwang-de-manager)|
 
 ## 진행방식
-1. 도서 1 - 분량 2 정해서 각 이론 정리 글 업로드
+1. { 도서 - 분량 } 정해서 각 이론 정리 글 업로드
 <도서 목록 : Operating System, Design Pattern, Clean Code/Architecture, Effective C++/STL >
 2. 각자 스터디 후 인당 총 질문 3개 준비해오기
 사다리타기해서 자기 다음 순서 사람이 준비해온거 질문해주기

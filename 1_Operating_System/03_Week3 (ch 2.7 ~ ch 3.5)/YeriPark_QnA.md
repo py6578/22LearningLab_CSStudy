@@ -10,6 +10,7 @@
 	: Context Switching
 	
 	
+	
 	[기타 꼬리질문]  
 	- IPC Shared Memory는 어떤 오버헤드가 존재하는가?  
 	  : Kernel을 통해서 메시지를 전달해야 하는 오버헤드가 존재하므로 Shared 메모리보다 느리다.

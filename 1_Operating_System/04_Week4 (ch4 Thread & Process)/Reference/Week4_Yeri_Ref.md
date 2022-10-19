@@ -83,3 +83,13 @@ The long term scheduler is responsible for determining the degree of multi-progr
 
 ## Process Models
 ![https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_05_ManyToOne.jpg](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_05_ManyToOne.jpg) ![https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_06_OneToOne.jpg](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_06_OneToOne.jpg) ![https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_07_ManyToMany.jpg](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_07_ManyToMany.jpg) ![https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_08_TwoLevel.jpg](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_08_TwoLevel.jpg)
+
+
+<br>
+
+## Concurrency and Parallelism
+![https://techdifferences.com/wp-content/uploads/2017/12/Untitled.jpg](https://techdifferences.com/wp-content/uploads/2017/12/Untitled.jpg)
+
+![https://www.baeldung.com/wp-content/uploads/sites/4/2022/01/vs-1024x462-1.png](https://www.baeldung.com/wp-content/uploads/sites/4/2022/01/vs-1024x462-1.png)
+
+![https://miro.medium.com/max/640/1*dDJO9Ski233CLRadWdbqvQ.png](https://miro.medium.com/max/640/1*dDJO9Ski233CLRadWdbqvQ.png)

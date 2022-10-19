@@ -60,3 +60,4 @@ Every Tue 6 pm at Autoway Tower N4 Room
 
 Thanks to
 1. OS - Simon Park[@parksb](https://github.com/parksb) : [🦕 공룡책으로 정리하는 운영체제](https://parksb.github.io/article/5.html)  
+2. UIC Lecture Note Page [Link](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)

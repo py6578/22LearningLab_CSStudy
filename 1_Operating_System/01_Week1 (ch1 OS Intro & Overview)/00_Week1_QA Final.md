@@ -1,4 +1,5 @@
-## 'Week1 Ch1. OS Introduction'
+# Ch1. OS Introduction
+
 
 ## 김현준
 ### 1. Kernel이란 무엇인가

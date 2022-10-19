@@ -16,7 +16,7 @@
 <br>
 
 ### Process Structure (by Jaeha)
-![https://user-images.githubusercontent.com/23491962/98322577-1a307d00-202b-11eb-967d-bfb5da6aecea.JPG](https://user-images.githubusercontent.com/23491962/98322577-1a307d00-202b-11eb-967d-bfb5da6aecea.JPG)
+![https://user-images.githubusercontent.com/23491962/98322577-1a307d00-202b-11eb-967d-bfb5da6aecea.JPG](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_01_ThreadDiagram.jpg)
 
 - 프로세스는 위 그림과 같이
     - code
@@ -50,7 +50,7 @@ The long term scheduler is responsible for determining the degree of multi-progr
 		5) Immutable Object 등의 방법이 제안된다.  
 	
 	
-	- 사용자 수준 Thread와 커널 수준 Thread 의 차이  
+	- [사용자 수준 Thread와 커널 수준 Thread 의 차이](https://www.crocus.co.kr/1255)
 		- Kernel level thread : 커널 스레드는 가장 가벼운 커널 스케쥴링 단위다   
 					하나의 프로세스는 적어도 하나의 커널 스레드를 가지게 된다.  
 					
@@ -79,3 +79,7 @@ The long term scheduler is responsible for determining the degree of multi-progr
 					=> 이게 안정성 문제인듯?  
 		
 
+<br>
+
+## Process Models
+![https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_05_ManyToOne.jpg](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_05_ManyToOne.jpg) ![https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_06_OneToOne.jpg](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_06_OneToOne.jpg) ![https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_07_ManyToMany.jpg](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_07_ManyToMany.jpg) ![https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_08_TwoLevel.jpg](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter4/4_08_TwoLevel.jpg)

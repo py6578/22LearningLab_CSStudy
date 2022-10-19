@@ -1,6 +1,7 @@
 # Ch1. OS Introduction
 
-
+<br>
+<br>
 
 ## 김현준
 ### 1. Kernel이란 무엇인가

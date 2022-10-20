@@ -105,8 +105,7 @@ Concurrent 안에 Simultaneous하면 Parallelistic 하다고 할 수 있는듯?
 여기서 GPU는 Data Parallistic 하나, 병렬 처리(여러가지 일을 하는것)를 하는 것은 아니고, 하나의 연산의 데이터를 쪼개고 몇백개의 코어에서 반복적인 분산 & 반복 연산을 통해 하나의 작업을 빠르게 끝내는 것이고
 CPU는 Data Parallel 하면서, Task Parallel 할 수 있다. 여러개의 일을 하면서 여러 코어에서 쪼개서 할 수 있는듯?
 
-### Nvidia CPU와 GPU의 차이
-![https://www.youtube.com/watch?v=1BAZf3PsjWA](https://www.youtube.com/watch?v=1BAZf3PsjWA) 영상 참조
+### [Nvidia CPU와 GPU의 차이](https://www.youtube.com/watch?v=1BAZf3PsjWA) 영상 참조
 
 <br>
 

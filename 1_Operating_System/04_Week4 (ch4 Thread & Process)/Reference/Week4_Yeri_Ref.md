@@ -88,8 +88,51 @@ The long term scheduler is responsible for determining the degree of multi-progr
 <br>
 
 ## Concurrency and Parallelism
+
 ![https://techdifferences.com/wp-content/uploads/2017/12/Untitled.jpg](https://techdifferences.com/wp-content/uploads/2017/12/Untitled.jpg)
 
 ![https://www.baeldung.com/wp-content/uploads/sites/4/2022/01/vs-1024x462-1.png](https://www.baeldung.com/wp-content/uploads/sites/4/2022/01/vs-1024x462-1.png)
 
 ![https://miro.medium.com/max/640/1*dDJO9Ski233CLRadWdbqvQ.png](https://miro.medium.com/max/640/1*dDJO9Ski233CLRadWdbqvQ.png)
+
+Concurrent 안에 Simultaneous하면 Parallelistic 하다고 할 수 있는듯?
+
+## GPU Parallel와 CPU Parallel의 차이?
+- Parallel 은 크게 Data Parallel / Task Parallel로 나뉜다 (by Jaein)
+	- Data Parallelism : GPU에서의 작업처럼 작업은 동일하나 데이터만 나누는 것
+    	- Task Parallelism : 작업 자체를 나누어서 처리하는 것
+
+여기서 GPU는 Data Parallistic 하나, 병렬 처리(여러가지 일을 하는것)를 하는 것은 아니고, 하나의 연산의 데이터를 쪼개고 몇백개의 코어에서 반복적인 분산 & 반복 연산을 통해 하나의 작업을 빠르게 끝내는 것이고
+CPU는 Data Parallel 하면서, Task Parallel 할 수 있다. 여러개의 일을 하면서 여러 코어에서 쪼개서 할 수 있는듯?
+
+### Nvidia CPU와 GPU의 차이
+![https://www.youtube.com/watch?v=1BAZf3PsjWA](https://www.youtube.com/watch?v=1BAZf3PsjWA) 영상 참조
+
+<br>
+
+## IPC - PIPE
+![https://postfiles.pstatic.net/20110519_8/akj61300_1305782666257s92qk_JPEG/K-2.jpg?type=w2](https://postfiles.pstatic.net/20110519_8/akj61300_1305782666257s92qk_JPEG/K-2.jpg?type=w2)
+: 여러개의 프로세스가 공통으로 사용하는 임시공간
+ - Message Passing 과의 차이는 대규모 데이터 전달이 가능하다는 점
+ [Ref](https://blog.naver.com/akj61300/80130589983)
+ 
+ <br>
+ 
+ ## RPC (Remote Procedure Call) in Client-Server communication
+ : 프로시저가 로컬인 것처럼 원격 프로시저에 대해 작업할 수 있다.
+ 
+ - Q. Socket의 Client-Server와의 차이점  
+   A. Socket Byte data passing이라 클라이언트가 서버에게 데이터(bit)를 요청하지만, RPC는 프로시저(기능, 함수) 단위의 데이터 전송이며 원격의 프로세서를 로컬처럼 작업하게 할 수도 있다.  
+   
+ - Q. Procedure가 무엇인가
+   A. 기능/함수 단위(ex. booting)를 의미한다. (Socket은 그저 010011010의 BYTE 데이터 전송임)
+   
+   <br>
+   
+
+
+
+
+
+   
+   

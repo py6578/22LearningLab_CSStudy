@@ -2,6 +2,13 @@
 22 R&amp;D Learning Lab - Autonomous Driving Computor Science Study  
 Every Tue 6 pm at Autoway Tower N4 Room
 
+<br>
+
+## Collaborator Merge 방법
+[Collaborator Review & Merge 방법](https://nosy-rover-cc6.notion.site/Collaborator-Review-Merge-Method-75650f4d18be4430bcbde42fc9f52898)
+
+<br> 
+
 ## Current Member
 |이름|GitHub|이름|Github|
 |---|---|---|---|
@@ -9,6 +16,8 @@ Every Tue 6 pm at Autoway Tower N4 Room
 |김장윤|[@MinChoKim](https://github.com/MinChoKim)|김현준|[@hjk9984](https://github.com/hjk9984)|
 |심상민|[@maan282](https://github.com/maan282)|이재인|[@Jaein94](https://github.com/Jaein94)|
 |이재하|[@LEE-JAEHA](https://github.com/LEE-JAEHA)|황정호|[@Fwang-de-manager](https://github.com/Fwang-de-manager)|
+
+<br>
 
 ## 진행방식
 1. { 도서 - 분량 } 정해서 각 이론 정리 글 업로드  
@@ -20,6 +29,8 @@ Every Tue 6 pm at Autoway Tower N4 Room
 3. 답변에 대한 질문자의 피드백
 4. 각자 자신이 한 질문 및 꼬리질문 정리해서 깃에 업로드
 
+<br>
+
 ## 폴더 구조
 ```sh
 ├─책 이름
@@ -30,6 +41,8 @@ Every Tue 6 pm at Autoway Tower N4 Room
 
 ```
 
+<br>
+
 ## 역할
 |역할|이름|
 |---|---|
@@ -38,6 +51,8 @@ Every Tue 6 pm at Autoway Tower N4 Room
 |Git 관리|김현준|
 |사다리/회의실예약/사진|김민정|
 - 추후 교재 변경 시 역할 변경
+
+<br>
 
 ## Commit Rule
 + 꼭 pull 먼저 하기!  
@@ -48,6 +63,8 @@ Every Tue 6 pm at Autoway Tower N4 Room
 + merge는 git maintainer(김현준)이 합니다  
 + [Pull Request 및 Issue 사용 방법](https://north-recorder-449.notion.site/PULL-REQUEST-97951f36e13f489a9c5f9d912e81d135)
 
+<br>
+
 ## Contributor
 
 |이름|GitHub|이름|Github|
@@ -57,6 +74,7 @@ Every Tue 6 pm at Autoway Tower N4 Room
 |심상민|[@maan282](https://github.com/maan282)|이재인|[@Jaein94](https://github.com/Jaein94)|
 |이재하|[@LEE-JAEHA](https://github.com/LEE-JAEHA)|황정호|[@Fwang-de-manager](https://github.com/Fwang-de-manager)|
 
+<br>
 
 Thanks to
 1. OS - Simon Park[@parksb](https://github.com/parksb) : [🦕 공룡책으로 정리하는 운영체제](https://parksb.github.io/article/5.html)  

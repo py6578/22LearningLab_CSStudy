@@ -19,6 +19,16 @@ Every Tue 6 pm at Autoway Tower N4 Room
 
 <br>
 
+## [OS Thanks to]
+- 요약 정리
+    1. ***** 강추!! [UIC CS Operating System 공룡책 Summary Lecture Note Page](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) 
+    2. OS - Simon Park[@parksb](https://github.com/parksb) : [🦕 공룡책으로 정리하는 운영체제](https://parksb.github.io/article/5.html)  
+    3. [Stanford CS212 OS Lecture PPT Contents](https://www.scs.stanford.edu/22wi-cs212/notes/)
+- 책 pdf
+    - [ENG OS 10th) Abraham-Silberschatz-Operating-System-Concepts-10th-2018](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)
+
+<br>
+
 ## 진행방식
 1. { 도서 - 분량 } 정해서 각 이론 정리 글 업로드  
 <도서 목록 : Operating System, Design Pattern, Clean Code/Architecture, Effective C++/STL >  
@@ -74,9 +84,4 @@ Every Tue 6 pm at Autoway Tower N4 Room
 |심상민|[@maan282](https://github.com/maan282)|이재인|[@Jaein94](https://github.com/Jaein94)|
 |이재하|[@LEE-JAEHA](https://github.com/LEE-JAEHA)|황정호|[@Fwang-de-manager](https://github.com/Fwang-de-manager)|
 
-<br>
 
-## Thanks to
-1. OS - Simon Park[@parksb](https://github.com/parksb) : [🦕 공룡책으로 정리하는 운영체제](https://parksb.github.io/article/5.html)  
-2. [UIC CS Operating System 공룡책 Summary Lecture Note Page](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) ***** 강추!!
-3. [Stanford CS212 OS Lecture PPT Contents](https://www.scs.stanford.edu/22wi-cs212/notes/)

@@ -20,4 +20,5 @@ SMP는 다음과 같은 두가지 전략을 가진다.
 
 ### 2. 두가지 전략의 장단점과 그중 더 널리 사용되는 전략은?
 1번 전략: ready queue를 공유하게 되면 race condition이 생길 수 있다. 따라서 각각의 프로세서가 같은 스레드를 선택하거나, 스레드가 queue에서 없어지지 않도록 주의해야 한다. 이런 race condition에서 공통의 ready queue를 보호하기 위해서 locking을 사용하는게 좋다. 하지만 모든 큐에 대한 액세스가 locking이 필요할 것이므로, performance bottleneck이 생길 수 있다.
+
 2번 전략(더 널리 사용): ready queue를 공유함으로써 생기는 성능 저하가 없다. 더 효율적인 cache memory 사용이 가능하다. 각각의 queue 사이즈가 달라 프로세서의 작업량이 다양한데, 이를 프로세서마다 비슷하게 맞춰주기 위해 balancing algorithm을 사용한다.

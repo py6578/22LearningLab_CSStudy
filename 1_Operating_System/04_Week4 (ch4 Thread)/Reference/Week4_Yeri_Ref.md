@@ -1,8 +1,4 @@
 # Ch3/4. Process & Thread 
-
-<br>
-<br>
-
 ## 박예리
 ### Longterm scheduler(Job Scheduler)와 Shortterm scheduler(CPU Scheduler)
 ![https://media.geeksforgeeks.org/wp-content/uploads/20191227161652/Untitled-Diagram-150.png](https://media.geeksforgeeks.org/wp-content/uploads/20191227161652/Untitled-Diagram-150.png)

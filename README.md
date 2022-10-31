@@ -63,9 +63,9 @@ __4. 스터디 후 `각자 자신이 한 질문 및 해답, 관련자료 정리�
 ## Collaborator Merge 방법
 [Collaborator Review & Merge 방법](https://nosy-rover-cc6.notion.site/Collaborator-Review-Merge-Method-75650f4d18be4430bcbde42fc9f52898)
 
+<br>
 
 ```
-<br>
 
 ## 폴더 구조
 ```sh
@@ -74,6 +74,9 @@ __4. 스터디 후 `각자 자신이 한 질문 및 해답, 관련자료 정리�
 │  │  │   교재_분량_진행자료.pdf
 │  │  │   공룡책으로 정리하는 운영체제 이론 정리.md
 │  │  │   이름_QnA.md
+
+```
+
 <br>
 
 ## Contributor

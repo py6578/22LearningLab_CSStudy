@@ -5,7 +5,6 @@
 - Long-Term Scheculer : Long-Term Scheduler takes the process from job pool. 
 			Job Pool에서 Ready Queue에 올릴 프로세스 선정
 - Long-Term Scheculer : Short-Term Scheduler takes the process from ready queue.
-
 [Difference between Long-Term and Medium-Term Scheduler](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)
 	
 <br>

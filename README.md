@@ -25,7 +25,6 @@ __4. 스터디 후 `각자 자신이 한 질문 및 해답, 관련자료 정리�
 + merge는 git maintainer(김현준)이 review 후 Merge confirm 합니다  
 + [Pull Request 및 Issue 사용 방법](https://north-recorder-449.notion.site/PULL-REQUEST-97951f36e13f489a9c5f9d912e81d135)
 
-------
 
 <br> 
 

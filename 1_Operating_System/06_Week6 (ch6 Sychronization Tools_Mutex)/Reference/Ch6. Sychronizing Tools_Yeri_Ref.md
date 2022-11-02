@@ -105,6 +105,8 @@ Unlike MPP systems, SMP systems `can dynamically balance the workload` among com
     - Busy waiting 또한 CPU를 잡아먹는다
       - SOL) waiting 상태의 프로세스를 sleep 상태에 두고, mutex_lock이 사용가능할 때 깨운다
 
+  2. ?
+
 ### 3. Spinlock
 : when the lock is to be held for a short duration.
   the process spinswhile waiting for the lock to become available

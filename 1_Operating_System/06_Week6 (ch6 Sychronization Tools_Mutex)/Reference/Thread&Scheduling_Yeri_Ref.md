@@ -94,7 +94,7 @@ Unlike MPP systems, SMP systems `can dynamically balance the workload` among com
   : when the lock is to be held for a short duration.
     the process spinswhile waiting for the lock to become available
       ㅌ
-    
+    ㄴ
 
 # ????? SPIN LOCK 이해 안 감 @_@ sec 6.5 
 - ref [this link](https://brownbears.tistory.com/45)
@@ -116,4 +116,19 @@ Unlike MPP systems, SMP systems `can dynamically balance the workload` among com
     2) 하나의 CPU나 하나의 코어만 있는 경우에는 유용하지 않다. 
     : 그 이유는 만약 다른 스레드가 Lock을 가지고 있고 그 스레드가 Lock을 풀어 주려면 싱글 CPU 시스템에서는 어차피 컨택스트 스위치가 일어나야 하기 때문
 
+### 3. critical section
+: the process may be accessing — and updating — data that is shared with at least one other process.
+- to synchronize their activity so as to cooperatively share data.
+
+### 4. General structure of a typical process
+![http://www.expertsmind.com/CMSImages/667_l%20structure%20of%20a%20typical%20process.png](http://www.expertsmind.com/CMSImages/667_l%20structure%20of%20a%20typical%20process.png)
+
+- entry section: The section of code implementing this request  
+- exit section  
+- remainder section : The remaining code 
+
+### 5. A solution to the critical-section problem
+  1. __*Mutual exclusion*__ : If process Pi is executing in its critical section, then __no other processes can be executing__ in their critical sections.  
+  2. __*Progress*__ : If no process is executing in its critical section and some processes wish to enter their critical sections, then only __those processes that are not executing in their remainder sections__ can participate in __deciding which will enter its critical section next__, and this selection __cannot be postponed indefinitely__.
+  3. __*Bounded waiting*__ : There exists `a bound, or limit, on the number of times` that __other processes are allowed to enter__ their critical sections after a process has made a request to enter its critical section and before that request is granted
 

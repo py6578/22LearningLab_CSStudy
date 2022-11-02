@@ -12,5 +12,5 @@
 
 <img src= "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbAZq19%2FbtqFiPGmzO2%2FwKaOwfZDUsppNqBPVCKUhk%2Fimg.png" width="500" height="850"/>
 
-### 세마포어 뮤텍스 차이 - 
+### 세마포어 뮤텍스 차이 - 화장실 예시
 - https://worthpreading.tistory.com/90

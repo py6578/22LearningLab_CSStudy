@@ -1,4 +1,4 @@
-# Ch6. Sychronizing Tools - Mutex
+# Ch6. Sychronizing Tools
 <br>
 ## 박예리
 
@@ -20,6 +20,10 @@ Sol) we need to ensure that __only one process__ at a time can be manipulating t
 - exit section  
 - remainder section : The remaining code 
 
+<br>
+---
+<br>
+
 ### 5. Solutions to the critical-section problem
   1. __*Mutual exclusion*__ : If process Pi is executing in its critical section, then __no other processes can be executing__ in their critical sections.  
   2. __*Progress*__ : If no process is executing in its critical section and some processes wish to enter their critical sections, then only __those processes that are not executing in their remainder sections__ can participate in __deciding which will enter its critical section next__, and this selection __cannot be postponed indefinitely__.
@@ -34,6 +38,9 @@ Sol) we need to ensure that __only one process__ at a time can be manipulating t
  - __*nonpreemptive kernel*__ : does not allow a process running in kernel mode to be preempted
                               - a kernel-mode process will run until it exits kernel mode, blocks, or voluntarily yields control of the CPU
 
+<br>
+---
+<br>
 
 ### 7. SMP(symmetric multiprogramming)
 : (symmetric multiprocessing) is computer processing done by multiple processors that share a common operating system (OS) and memory [link](https://www.techtarget.com/searchdatacenter/definition/SMP)  
@@ -43,22 +50,30 @@ Sol) we need to ensure that __only one process__ at a time can be manipulating t
 Unlike MPP systems, SMP systems `can dynamically balance the workload` among computers to serve more users faster.
 - The processors `__equally__ share main memory and have access` to all I/O devices.
 
-##### SMP Advantages
-- Increased throughput. : Using multiple processors to run tasks decreases the time it takes for the tasks to execute.
-- Reliability. : If a processor fails, the whole system does not fail. But efficiency may still be affected.
-- Cost-effective. : SMP is a less expensive way long term to increase system throughput than a single processor system, as the processors in an SMP system share data storage, power supplies and other resources.
-- Performance. :Because of the increased throughput, the performance of an SMP computer system is significantly higher than a system with only one processor.
-- Programming and executing code. : A program can run on any processor in the SMP system and `reach about the same level of performance`, which makes programming and executing code relatively straightforward.
-- Multiple processors. : If a task is taking too long to complete, multiple processors can be added to speed up the process.
+  ##### SMP Advantages
+  - Increased throughput. : Using multiple processors to run tasks decreases the time it takes for the tasks to execute.
+  - Reliability. : If a processor fails, the whole system does not fail. But efficiency may still be affected.
+  - Cost-effective. : SMP is a less expensive way long term to increase system throughput than a single processor system, as the processors in an SMP system share data storage, power supplies and other resources.
+  - Performance. :Because of the increased throughput, the performance of an SMP computer system is significantly higher than a system with only one processor.
+  - Programming and executing code. : A program can run on any processor in the SMP system and `reach about the same level of performance`, which makes programming and executing code relatively straightforward.
+  - Multiple processors. : If a task is taking too long to complete, multiple processors can be added to speed up the process.
 
 
-##### SMP Disadvantages
-- Memory expense.: Because all processors in SMP share common memory, `main memory must be large enough` to support all the included processors.
-- Compatibility. : For SMP to work, the OS, programs and applications all need to support the architecture.
-- Complicated OS. : `The OS manages all the processors` in an SMP system. This means the design and management of the OS can be `complex`, as the OS needs to handle all the available processors, while operating in `resource-intensive` computing environments.
+  ##### SMP Disadvantages
+  - Memory expense.: Because all processors in SMP share common memory, `main memory must be large enough` to support all the included processors.
+  - Compatibility. : For SMP to work, the OS, programs and applications all need to support the architecture.
+  - Complicated OS. : `The OS manages all the processors` in an SMP system. This means the design and management of the OS can be `complex`, as the OS needs to handle all the available processors, while operating in `resource-intensive` computing environments.
+
+<br>
+---
+<br>
 
 ## SW based Solution to the Critical section problem
 ### 1. Peterson's Solution
+
+<br>
+---
+<br>
 
 ## SW based Solution to the Critical section problem
 ### 1. Atomic

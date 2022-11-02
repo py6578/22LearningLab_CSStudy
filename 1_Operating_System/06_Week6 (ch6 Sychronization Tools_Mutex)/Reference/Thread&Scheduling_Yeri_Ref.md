@@ -93,10 +93,7 @@ Unlike MPP systems, SMP systems `can dynamically balance the workload` among com
 ### 3. Spinlock
 : when the lock is to be held for a short duration.
   the process spinswhile waiting for the lock to become available
-
-
-# ????? SPIN LOCK 이해 안 감 @_@ sec 6.5 
-- ref [this link](https://brownbears.tistory.com/45)
+  - ref [this link](https://brownbears.tistory.com/45)
 : `Lock을 얻을 수 없다면, 계속해서 loop를 돌면서 Lock을 확인하며 얻을 때까지 재시도`한다. 이른바 바쁘게 기다리는 `busy wating`이다.
 바쁘게 기다린다는 것은 `무한 루프를 돌면서 최대한 다른 스레드에게 CPU를 양보하지 않는 것`이다.
 

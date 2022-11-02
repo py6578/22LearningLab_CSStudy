@@ -23,4 +23,4 @@ Sol) we need to ensure that __only one process__ at a time can be manipulating t
 ### 5. A solution to the critical-section problem
   1. __*Mutual exclusion*__ : If process Pi is executing in its critical section, then __no other processes can be executing__ in their critical sections.  
   2. __*Progress*__ : If no process is executing in its critical section and some processes wish to enter their critical sections, then only __those processes that are not executing in their remainder sections__ can participate in __deciding which will enter its critical section next__, and this selection __cannot be postponed indefinitely__.
-  3. __*Bounded waiting*__ : There exists `a bound, or limit, on the number of times` that __other processes are allowed to enter__ their critical sections after a process has made a request to enter its critical section and before that request is granted.
+  3. __*Bounded waiting*__ : There exists `a bound, or limit, on the number of times` that __other processes are allowed to enter__ their critical sections after a process has made a request to enter its critical section and before that request is granted

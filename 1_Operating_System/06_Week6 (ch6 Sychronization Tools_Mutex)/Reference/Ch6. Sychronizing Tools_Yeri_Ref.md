@@ -75,7 +75,7 @@ Unlike MPP systems, SMP systems `can dynamically balance the workload` among com
 ---
 <br>
 
-## SW based Solution to the Critical section problem
+## HW based Solution to the Critical section problem
 ### 1. Atomic
 - Definition of atomic : one uninterruptible unit
 ![https://images.app.goo.gl/LR7Xh9taEfv285SX7](https://images.app.goo.gl/LR7Xh9taEfv285SX7)

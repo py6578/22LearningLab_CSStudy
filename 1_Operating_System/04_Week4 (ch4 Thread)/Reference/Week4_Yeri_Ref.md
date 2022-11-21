@@ -1,15 +1,10 @@
 # Ch3/4. Process & Thread 
-
-<br>
-<br>
-
 ## 박예리
 ### Longterm scheduler(Job Scheduler)와 Shortterm scheduler(CPU Scheduler)
 ![https://media.geeksforgeeks.org/wp-content/uploads/20191227161652/Untitled-Diagram-150.png](https://media.geeksforgeeks.org/wp-content/uploads/20191227161652/Untitled-Diagram-150.png)
 - Long-Term Scheculer : Long-Term Scheduler takes the process from job pool. 
 			Job Pool에서 Ready Queue에 올릴 프로세스 선정
 - Long-Term Scheculer : Short-Term Scheduler takes the process from ready queue.
-
 [Difference between Long-Term and Medium-Term Scheduler](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)
 	
 <br>

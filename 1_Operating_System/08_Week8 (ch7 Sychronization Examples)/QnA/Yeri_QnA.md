@@ -7,16 +7,16 @@
 ### Q. Readers-Writers Problem이란 무엇이고 그 특징과 주의점은 무엇인가?
 ![https://mblogthumb-phinf.pstatic.net/MjAyMDAxMjhfODUg/MDAxNTgwMTM3MzA0MTM1.d_rfH9R-z_Rf0PHiEfxcgWHRcnbJ7Pa-8CiqJdAiQ34g.1uaxvSpY4fp-epIgMM126jm2-JQBmmT4hIMkgho-WJYg.PNG.hirit808/image.png?type=w800](https://mblogthumb-phinf.pstatic.net/MjAyMDAxMjhfODUg/MDAxNTgwMTM3MzA0MTM1.d_rfH9R-z_Rf0PHiEfxcgWHRcnbJ7Pa-8CiqJdAiQ34g.1uaxvSpY4fp-epIgMM126jm2-JQBmmT4hIMkgho-WJYg.PNG.hirit808/image.png?type=w800)
 
-![https://slidesplayer.org/slide/15164779/92/images/21/First+Readers-Writers+Problem.jpg](https://slidesplayer.org/slide/15164779/92/images/21/First+Readers-Writers+Problem.jpg)
-
 - 정의) Reader는 여러 Reader가 동시에 read가 가능하더라도, Write 할 때에는 데이터의 consistency를 위해서 해당 데이터의 접근에 대해 세마포어/뮤텍스로 접근권한을 보호해야한다.
     - 동시에 여러명의 Reader는 가능하나, Writer는 한 명만 가능하고 그 사이 Read 못하게 상호 배제
     - Shared_mutex를 통해 구현하기도 한다.
-![https://i.stack.imgur.com/PStSm.jpg](https://i.stack.imgur.com/PStSm.jpg)
 
 - 주의점) read_count조차 다수의 readers 끼리의 공유자원이므로, 이 또한 mutex로 보호해야 한다.
+- pseudo code
+![https://i.stack.imgur.com/PStSm.jpg](https://i.stack.imgur.com/PStSm.jpg)
 
-### Concurrent Programming Read / Write by Shared lock Example
+
+### Concurrent Programming Read / Write by Shared lock Example (동시 Read에 열려있으면서, 동시 Write에는 막혀있는)
 
 ```
 #include <iostream>

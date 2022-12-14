@@ -1,4 +1,4 @@
-# Ch7. Sychronization Examples
+# Ch 8. Deadlocks
 <br>
 ## 박예리
 
